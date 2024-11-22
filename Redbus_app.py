@@ -1,3 +1,12 @@
+
+
+git add requirements.txt
+git commit -m "Add streamlit-option-menu to requirements.txt"
+git push
+
+
+
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import pymysql
