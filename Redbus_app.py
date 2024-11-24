@@ -107,7 +107,7 @@ if r == "PROJECT_OVERVIEW":
     # GitHub raw URLs for HTML files
     html_files = {
         "Selenium": "https://raw.githubusercontent.com/JeyabalGopalan/Redbus/main/RedBus_data_Scraping.html",
-        "Pandas": "https://raw.githubusercontent.com/JeyabalGopalan/Redbus/main/Cleaning_and_Connection.html",
+        "Pandas": "https://raw.githubusercontent.com/JeyabalGopalan/Redbus/main/Cleaning and Connection.html",
         "Streamlit": "https://raw.githubusercontent.com/JeyabalGopalan/Redbus/main/Streamlit_Sql.html"
     }
 
